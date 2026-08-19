@@ -11,7 +11,7 @@ struct MailgunTests {
                 InMemoryProvider(values: [
                     "apiKey": "test-api-key",
                     "defaultDomain.domain": "mg.myapp.com",
-                    "defaultDomain.region": "us"
+                    "defaultDomain.region": "us",
                 ])
             ]
         )
